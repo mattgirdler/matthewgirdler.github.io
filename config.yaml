@@ -116,7 +116,7 @@ params:
     content: |-
       I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing and user-centered design. My hobbies include football, game development, pixel art and music.
       
-      I'm currently working as a Senior Software Engineer at [Rowe IT.](https://roweit.co.uk) in Plymouth, UK. 
+      I'm currently working as a Senior Software Engineer at [Rowe IT](https://roweit.co.uk) in Plymouth, UK. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
