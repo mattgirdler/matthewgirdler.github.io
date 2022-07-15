@@ -15,7 +15,7 @@ Menus:
   main:
     - identifier: blog
       name: Blog
-      title: Blog posts
+      title: Blogs
       url: /blogs
       weight: 1
     
