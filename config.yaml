@@ -95,7 +95,7 @@ params:
     button:
       enable: true
       name: "Résumé"
-      url: "#"
+      url: "#about"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -114,7 +114,7 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |-
-      I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing and user-centered design My hobbies include football, game development, pixel art and music.
+      I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing and user-centered design. My hobbies include football, game development, pixel art and music.
       
       I'm currently working as a Senior Software Engineer at [Rowe IT.](https://roweit.co.uk) in Plymouth, UK. 
     skills:

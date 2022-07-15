@@ -11,6 +11,6 @@ description: ""
 toc: 
 ---
 
-Welcome to my new website!
-
 ## Hello World
+
+It wouldn't be a developer blog without a Hello World, would it?
