@@ -1,4 +1,4 @@
-baseURL: 'http://matthewgirdler.com.org/'
+baseURL: 'https://www.matthewgirdler.com/'
 languageCode: "en-us"
 title: "Matt Girdler"
 theme: hugo-profile
