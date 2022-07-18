@@ -11,7 +11,7 @@ description: ""
 toc: 
 ---
 
-In the absence of other ideas, what better way to christen a new blog than to explain how I made it. 
+In the absence of inspiration, I thought what better way to christen this new blog than to explain how I made it!
 
 ## Background
 
@@ -20,7 +20,7 @@ I'll start off by talking a bit about why I created this blog, and why I chose H
 ### Domain
 I've had this domain since 2009, when it was bought for me by a family member. I didn't know what to do with it at the time, and didn't really think about it until last year when the ownership was transferred over to me. 
 This seemed like as good an excuse as any to try and tick off two tasks that had been on my personal backlog for a while:
-- create a living CV (I hate 
+- create a living CV (I hate dealing with Word docs) 
 - start blogging
 
 ### Hugo
