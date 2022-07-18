@@ -41,7 +41,7 @@ params:
   title: "Matt Girdler"
   description: My résumé and blog
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/favicon.ico"
 
   theme:
     disableThemeToggle: false
