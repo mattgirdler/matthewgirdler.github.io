@@ -87,7 +87,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi! my name is"
+    intro: "Hi! My name is"
     title: "Matt."
     subtitle: "I build things for the web"
     content: "A passionate full-stack software engineer, I enjoy exploring emerging technology, collaborating with others and building robust services that focus on the user first."    
