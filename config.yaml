@@ -4,7 +4,7 @@ title: "Matt Girdler"
 theme: hugo-profile
 
 Paginate: 3
-# googleAnalytics: G-DWJJVE27WD
+googleAnalytics: G-Q2LSP187TG
 
 markup:
   goldmark:
@@ -146,13 +146,13 @@ params:
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
           Consulting with various public bodies, helping them to build secure, resilient and cost-effective services. 
-          Clients I've worked with include MoD, UK Hydrographic Office, Forestry Commission, Scottish Qualification Authority and Crown Commercial Services.
+          Clients I've worked with include MoD, UK Hydrographic Office, Forestry Commission, Crown Commercial Services, West of England Combined Authority and Scottish Qualification Authority.
 
-          - Architected, developed and maintained a payment processing system, utilising AWS Serverless architecture.
-          - Various research and development activities.
-          - Troubleshooting and resolving issues in legacy systems.
-          - Started DevOps community of practice.
-          - Coaching and mentoring.          
+          - Architecting, developing and maintaining a payment processing system utilising AWS Serverless architecture.
+          - Leading "Innovation Team" in R&D and capability-building activities.
+          - Troubleshooting and resolving issues in legacy systems.      
+          - Using Infrastructure as Code tools like Terraform and Azure Powershell to manage and provision cloud environments.
+          - Coaching and mentoring.
 
       - job: "Senior Software Engineer"
         company: "HM Land Registry"
@@ -183,7 +183,6 @@ params:
           name: "University of Plymouth"
           url: "https://www.plymouth.ac.uk/"
         date: "2012 - 2016"
-        # GPA: "3.8 out of 5.0"
         content: |-
           Bachelor's degree in Computing, specialising in software development, web development and software design.
       - title: "Level 3 BTEC Computing and Games Development"
@@ -191,7 +190,6 @@ params:
           name: "City College Plymouth"
           url: "https://www.cityplym.ac.uk/"
         date: "2010 - 2012"
-        # GPA: "3.9 out of 5.0"
         content: |-
           First introduction to software development and user-centered design.
         # featuredLink:
@@ -209,7 +207,6 @@ params:
       - title: Corda Certified Developer
         content: R3
         url: https://www.credly.com/badges/e85688fc-e25d-48ad-b745-32104664f38c
-      # - content: 
       - title: Foundation Certificate in Agile 
         content: BCS, The Chartered Institute for IT        
         url: 
@@ -250,6 +247,7 @@ params:
           - "Web3"
           - "React"
           - "NestJS"
+          - "Tailwind"
         # links:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/converter
@@ -258,7 +256,7 @@ params:
   contact:
     enable: false
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: matthewdgirdler@gmail.com
+    email: matthewdgirdler+website@gmail.com
     btnName: Mail me
 
   footer:
