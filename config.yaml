@@ -145,7 +145,7 @@ params:
         #   enable: true
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
-          Roles fulfilled
+          **Roles fulfilled:**      
             Jan 2023 - Present (Technical Consultant)            
             Apr 2021 - Dec 2022 (Senior Software Engineer)
           
