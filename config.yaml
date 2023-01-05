@@ -145,9 +145,10 @@ params:
         #   enable: true
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
-          Titles: 
-          - Jan 2023 - Present (Technical Consultant)
-          - Apr 2021 - Dec 2022 (Senior Software Engineer)          
+          Roles fulfilled: 
+            Jan 2023 - Present (Technical Consultant)
+            Apr 2021 - Dec 2022 (Senior Software Engineer)          
+          
           Consulting with various public bodies, helping them to build secure, resilient and cost-effective services. 
           Clients I've worked with include MoD, UK Hydrographic Office, Forestry Commission, Crown Commercial Services, West of England Combined Authority and Scottish Qualification Authority.
 
