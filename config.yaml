@@ -116,7 +116,7 @@ params:
     content: |-
       I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing and user-centered design. My hobbies include football, game development, pixel art and music.
       
-      I'm currently working as a Senior Software Engineer at [Rowe IT](https://roweit.co.uk) in Plymouth, UK. 
+      I'm currently working as a Techincal Consultant at [Rowe IT](https://roweit.co.uk) in Plymouth, UK. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -128,13 +128,13 @@ params:
         - "Node"
         - "React"
         - "Web3"
-        - "Solidity"
+        - "Solidity"        
 
   # Experience
   experience:
     enable: true
     items:
-      - job: "Senior Software Engineer"
+      - job: "Technical Consultant"
         company: "Rowe IT"
         companyUrl: "https://roweit.co.uk"
         date: "Apr 2021 - Present"
@@ -145,6 +145,9 @@ params:
         #   enable: true
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
+          Titles: 
+          - Jan 2023 - Present (Technical Consultant)
+          - Apr 2021 - Dec 2022 (Senior Software Engineer)          
           Consulting with various public bodies, helping them to build secure, resilient and cost-effective services. 
           Clients I've worked with include MoD, UK Hydrographic Office, Forestry Commission, Crown Commercial Services, West of England Combined Authority and Scottish Qualification Authority.
 
