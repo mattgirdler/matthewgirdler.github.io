@@ -14,7 +14,7 @@ My daughter was born in late 2021, so 2022 for me consisted of many great memori
 
 I also spent a few days in Kraków, Poland with a couple of friends. We’d originally planned to go there for my stag do in 2021 but travel restrictions prevented us from going. Kraków is a beautiful city and I’d highly recommend visiting the Wieliczka Salt Mine - the chapel was a particularly stunning highlight.
 
-I only went to two live concerts in 2022, which were both fantastic. I saw one of my favourite artists, experimental hip-hop producer and rapper JPEGMAFIA, at the O2 Institute in Birmingham in March. It was just him and a laptop, but the show felt huge - his unmatched energy and the dedicated crowd made it an electric show. The most memorable moment being the acapella cover of Carly Rae Jepsen’s “Call Me Maybe”.
+I only went to two live music concerts in 2022, but both were fantastic. I saw one of my favourite artists, experimental hip-hop producer and rapper JPEGMAFIA, at the O2 Institute in Birmingham in March. It was just him and a laptop, but the show felt huge - his unmatched energy and the dedicated crowd made it an electric show. The most memorable moment being the acapella cover of Carly Rae Jepsen’s “Call Me Maybe”.
 
 The other concert I attended was the incredible Kendrick Lamar, supported by Baby Keem at the Utilita Arena in Birmingham. This couldn’t have been further from the JPEGMAFIA gig in terms of scope - it was a massive show with backup performers, set pieces and moving platforms. A lavish production featuring an emphatic performance by Keem, who’s no doubt going to be a star in his own right.
 
