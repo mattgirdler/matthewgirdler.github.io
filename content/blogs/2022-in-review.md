@@ -6,14 +6,18 @@ author: "Matt"
 tags:
   - Blog
 draft: false
-image: "/images/projects/profile2.jpg"
+image: "/images/projects/2022.jpg"
 ---
 
 # Contents 
 1. [Fun Stuff](#fun-stuff)
-2. [I Got Promoted!](i-got-promoted)
-3. [Side Projects Took A Hit](side-projects-took-a-hit) 
-4. [Favourite Releases](favourite-releases) 
+2. [I Got Promoted!](#i-got-promoted)
+3. [Side Projects Took A Hit](#side-projects-took-a-hit) 
+4. [Favourite Releases](#favourite-releases)
+    1. [Albums](#albums)
+    2. [Movies](#movies)  
+    3. [Games](#games) 
+    4. [TV Shows](#tv-shows) 
 
 ## Fun Stuff
 My daughter was born in late 2021, so 2022 for me consisted of many great memories. In June we enjoyed our first holiday as a family in Spain which, despite a four hour delayed flight on departure, was a great time and also marked our first trip abroad since COVID. Fortunately, the compensation for the delayed flights paid for a holiday to Menorca in September. Both trips provided some much needed rest and relaxation - albeit less than when it was just me and my wife! 
