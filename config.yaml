@@ -146,8 +146,8 @@ params:
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
           **Roles fulfilled:**      
-            Jan 2023 - Present (Technical Consultant)            
-            Apr 2021 - Dec 2022 (Senior Software Engineer)
+          &nbsp;&nbsp;Jan 2023 - Present (Technical Consultant)            
+          &nbsp;&nbsp;Apr 2021 - Dec 2022 (Senior Software Engineer)
           
           Consulting with various public bodies, helping them to build secure, resilient and cost-effective services. 
           Clients I've worked with include Transport for Greater Manchester, MoD, UK Hydrographic Office, Forestry Commission, Crown Commercial Services, West of England Combined Authority and Scottish Qualification Authority.
@@ -208,6 +208,9 @@ params:
       - title: AWS Solutions Architect (Associate)
         content: Amazon Web Services (AWS)
         url: https://www.credly.com/badges/5e4d05a4-a0cd-4112-ad84-676ee470438e
+      - title: Microsoft Certified - Azure Fundamentals
+        content: Microsoft Azure
+        url:        
       - title: Corda Certified Developer
         content: R3
         url: https://www.credly.com/badges/e85688fc-e25d-48ad-b745-32104664f38c
@@ -243,9 +246,6 @@ params:
       - title: Untitled Web3 Project
         content: A Web3 application, consisting of Solidity smart contracts, React frontend and NestJS REST API.
         image: /images/projects/profile2.jpg
-        # featured:
-        #   name: Demo
-        #   link: https://django-converter.herokuapp.com
         badges:
           - "Solidity"
           - "Web3"
@@ -264,7 +264,7 @@ params:
     btnName: Mail me
 
   footer:
-    # recentPosts: false
+    recentPosts: true
     socialNetworks:
       github: https://github.com/mattgirdler
       linkedin: https://www.linkedin.com/in/matt-girdler-5740a3a7/
