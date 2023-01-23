@@ -13,10 +13,12 @@ image: "/images/projects/2022.jpg"
 My daughter was born in late 2021, so 2022 for me consisted of many great memories. In June we enjoyed our first holiday as a family in Spain which, despite a four hour delayed flight on departure, was a great time and also marked our first trip abroad since COVID. Fortunately, the compensation for the delayed flights paid for a holiday to Menorca in September. Both trips provided some much needed rest and relaxation - albeit less than when it was just me and my wife! 
 
 I also spent a few days in Kraków, Poland with a couple of friends. We’d originally planned to go there for my stag do in 2021 but travel restrictions prevented us from going. Kraków is a beautiful city and I’d highly recommend visiting the Wieliczka Salt Mine - the chapel was a particularly stunning highlight.
+
+![Salt Mine Chapel](/static/images/Chapel.jpg) 
 I only went to two live concerts in 2022, which were both fantastic. I saw one of my favourite artists, experimental hip-hop producer and rapper JPEGMAFIA, at the O2 Institute in Birmingham in March. It was just him and a laptop, but the show felt huge - his unmatched energy and the dedicated crowd made it an electric show. The most memorable moment being the acapella cover of Carly Rae Jepsen’s “Call Me Maybe”.
 
 The other concert I attended was the incredible Kendrick Lamar, supported by Baby Keem at the Utilita Arena in Birmingham. This couldn’t have been further from the JPEGMAFIA gig in terms of scope - it was a massive show with backup performers, set pieces and moving platforms. A lavish production featuring an emphatic performance by Keem, who’s no doubt going to be a star in his own right.
-
+![Kendrick Lamar](/static/images/Kendrick.jpg)
 
 # I got promoted! 
 It was a fulfilling year at work. In my role as Senior Software Engineer at Rowe IT, I got to learn lots of technologies including Azure, TypeScript, Cloudformation, ArcGIS Enterprise, Certbot and GitHub Actions. My day-to-day has definitely taken more of a DevOps leaning in the last 18 months which isn’t a path I expected, but has been rewarding in its own right. There’s so much to learn, and I feel I’ve developed my skills as a software engineer by broadening my horizons and being more aware of infrastructure and deployment-based activities.
