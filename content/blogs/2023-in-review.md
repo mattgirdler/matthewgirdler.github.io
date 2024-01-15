@@ -36,18 +36,21 @@ As it turns out, being a parent and having a full-time job is quite time-consumi
 5. boygenius - The Record
 6. Caroline Palochek - Desire, I Want to Turn into You
 7. Mitski – The Land Is Inhospitable and So Are We
+8. Sampha - Lahai
+9. Paramore – This Is Why
+10. billy woods & Kenny Segal - Maps
+11. Nas
 
 ### Movies
-1. Everything Everywhere All At Once 
-2. Banshees of Inisherin 
-3. Nope
-4. The Northman
-5. The Batman
-6. Top Gun: Maverick
-7. The Menu
-8. Bodies Bodies Bodies
-9. Barbarian
-10. All Quiet on the Western Front
+1. Killers of the Flower Moon
+2. Spider-man: Across the Spider-Verse
+3. Oppenheimer
+4. Blackberry
+6. Mission Impossible - Dead Reckoning Part One
+7. The Creator
+8. Talk to Me
+9. Saltburn
+10. Tar
 
 ### Games 
 1. Tunic
