@@ -35,11 +35,12 @@ As it turns out, being a parent and having a full-time job is quite time-consumi
 4. Sufjan Stevens - Javelin
 5. boygenius - The Record
 6. Caroline Palochek - Desire, I Want to Turn into You
-7. Mitski – The Land Is Inhospitable and So Are We
-8. Sampha - Lahai
-9. Paramore – This Is Why
-10. billy woods & Kenny Segal - Maps
-11. Nas
+7. Lankum - False Lankum
+8. Mitski – The Land Is Inhospitable and So Are We
+9. Sampha - Lahai
+10. Paramore – This Is Why
+11. billy woods & Kenny Segal - Maps
+12. Nas
 
 ### Movies
 1. Killers of the Flower Moon
@@ -53,25 +54,21 @@ As it turns out, being a parent and having a full-time job is quite time-consumi
 10. Tar
 
 ### Games 
-1. Tunic
-2. God of War Ragnarok 
-3. Return to Monkey Island
-4. Stray
-5. Overwatch 2
-6. LEGO Star Wars: The Skywalker Saga
-7. Waffle (Wordle spin-off)
-8. Vampire Survivors
-9. Immortality
-10. Horizon Forbidden West
+1. Talos Principle 2
+2. Alan Wake 2
+3. Spider-Man 2
+4. Metroid Prime Remastered
+5. Star Wars: Jedi Survivor
+6. Storyteller (Android)
 
 ### TV shows 
-1. Better Call Saul
-2. Severance
-3. The Bear
-4. Andor
-5. Barry
-6. Atlanta
-7. House of the Dragon
-8. Only Murders in the Building
-9. Ozark
-10. Stranger Things
+1. Succession
+2. Barry
+3. I Think You Should Leave
+4. The Bear
+5. Gen V
+6. The Last of Us
+7. Beef
+8. Invincible
+9. Schmigadoon
+10. Only Murders in the Building
