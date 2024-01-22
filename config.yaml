@@ -4,12 +4,32 @@ title: "Matt Girdler"
 theme: hugo-profile
 
 Paginate: 3
-googleAnalytics: G-Q2LSP187TG
+enableRobotsTXT: true
+
+services:
+  googleAnalytics: 
+    ID: G-Q2LSP187TG
 
 markup:
   goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
     renderer:
+      hardWraps: false
       unsafe: true
+      xhtml: false
 
 Menus:
   main:
@@ -71,11 +91,11 @@ params:
   #     secondaryColor:
 
   # If you want to customize the menu, you can change it here
-  # navbar:
-  #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-  #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-  #   brandName: "Profile" # Brand name for the brand | default is the title variable
-
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    brandName: "Matt Girdler" # Brand name for the brand | default is the title variable
+    disableSearch: true
     menus:
   #     disableAbout: true
   #     disableExperience: true
@@ -96,6 +116,8 @@ params:
       enable: true
       name: "Résumé"
       url: "#about"
+      download: false
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -112,11 +134,11 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.jpg"
+    # image: "/images/me_corporate.jpg"
     content: |-
       I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing and user-centered design. My hobbies include football, game development, pixel art and music.
       
-      I'm currently working as a Techincal Consultant at [Rowe IT](https://roweit.co.uk) in Plymouth, UK. 
+      I'm currently working as a Technical Consultant at [Rowe IT](https://roweit.co.uk) in Plymouth, UK. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -124,11 +146,10 @@ params:
         - "Python"
         - "Terraform"
         - "AWS"
+        - "Cloudformation"
         - "Azure"
         - "Node"
         - "React"
-        - "Web3"
-        - "Solidity"        
 
   # Experience
   experience:
@@ -137,7 +158,7 @@ params:
       - job: "Technical Consultant"
         company: "Rowe IT"
         companyUrl: "https://roweit.co.uk"
-        date: "Apr 2021 - Present"
+        date: "April 2021 - Present"
         # featuredLink:
         #   enable: true
         #   url: "https://example.com"
@@ -146,27 +167,41 @@ params:
         #   content: I worked as a software developer for more than one year in Amazon.
         content: |
           **Roles fulfilled:**      
-          &nbsp;&nbsp;Jan 2023 - Present (Technical Consultant)            
-          &nbsp;&nbsp;Apr 2021 - Dec 2022 (Senior Software Engineer)
+          &nbsp;&nbsp;January 2023 - Present (Technical Consultant)            
+          &nbsp;&nbsp;April 2021 - December 2022 (Senior Software Engineer)
           
           Consulting with various public bodies, helping them to build secure, resilient and cost-effective services. 
-          Clients I've worked with include Transport for Greater Manchester, MoD, UK Hydrographic Office, Forestry Commission, Crown Commercial Services, West of England Combined Authority and Scottish Qualification Authority.
+          The clients I've worked with include:
+          - Met Office
+          - West of England Combined Authority
+          - Transport for Greater Manchester
+          - Ministry of Defence
+          - UK Hydrographic Office
+          - Forestry Commission
+          - Crown Commercial Services          
+          - Scottish Qualification Authority.
 
-          - Architecting, developing and maintaining a payment processing system utilising AWS Serverless architecture.
-          - Leading "Innovation Team" in R&D and capability-building activities.
-          - Troubleshooting and resolving issues in legacy systems.      
-          - Using Infrastructure as Code tools like Terraform and Azure Powershell to manage and provision cloud environments.
-          - Coaching and mentoring.
+          My achievements include:
+          - Designing, developing and maintaining a payment processing system utilising AWS Serverless architecture.
+          - Implementing enterprise network architecture for a travel data hub service.
+          - Leading R&D team capability-building activities.
+          - Maintaining and implementing disaster recovery solution for ArcGIS Enterprise deployment.
+          - Using Infrastructure as Code tools such as Terraform, Cloudformation and CDK to provision and manage cloud environments.          
 
       - job: "Senior Software Engineer"
         company: "HM Land Registry"
         companyUrl: "https://www.gov.uk/government/organisations/land-registry"
-        date: "Sep 2014 - Mar 2021"
+        date: "September 2014 - March 2021"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://hmlandregistry.blog.gov.uk/tag/digital-street/"
         content: |
+          **Roles fulfilled:**      
+          &nbsp;&nbsp;February 2018 - April 2021 (Senior Software Developer)            
+          &nbsp;&nbsp;September 2015 - January 2018 (Software Developer)
+          &nbsp;&nbsp;September 2014 - August 2015 (IT Student Placement)
+          
           I began my career at [HM Land Registry](https://www.gov.uk/government/organisations/land-registry) as a placement student.
           I gained a wide range of experience working across different teams and departments, from Data Warehousing to Security Admin, before eventually settling into my passion of Software Development.
 
@@ -231,7 +266,7 @@ params:
         image: /images/projects/SocialRebels.png
         featured:
           name: Social Rebels
-          link: https://social-rebels.com
+          # link: https://social-rebels.com
         badges:
           - "Python"
           - "Django"
@@ -264,7 +299,12 @@ params:
     btnName: Mail me
 
   footer:
-    recentPosts: true
+    recentPosts: 
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/mattgirdler
       linkedin: https://www.linkedin.com/in/matt-girdler-5740a3a7/
