@@ -9,22 +9,17 @@ draft: true
 image: "/images/projects/2023.jpg"
 ---
 
-## Fun Stuff
-My daughter was born in late 2021, so 2022 for me consisted of many great memories. In June we enjoyed our first holiday as a family in Spain which, despite a four hour delayed flight on departure, was a great time and also marked our first trip abroad since COVID. Fortunately, the compensation for the delayed flights paid for a holiday to Menorca in September. Both trips provided some much needed rest and relaxation - albeit less than when it was just me and my wife! 
+## Highlights
+2023 was a hectic year, to say the least. We finally moved home in April after having multiple buyers pull out at the last minute. In the end, we went for a part exchange on a new build which meant we didn't have to worry about estate agent fees and took away a lot of the stress that we had been experiencing up to that point. 
 
-I also spent a few days in Kraków, Poland with a couple of friends. We’d originally planned to go there for my stag do in 2021 but travel restrictions prevented us from going. Kraków is a beautiful city and I’d highly recommend visiting the Wieliczka Salt Mine - the chapel was a particularly stunning highlight.
+I'm a massive fan of football - whether I'm watching or playing it. As a season ticket holder at Plymouth Argyle for ~20 years, I was 
 
-I only went to two live music concerts in 2022, but both were fantastic. I saw one of my favourite artists, experimental hip-hop producer and rapper JPEGMAFIA, at the O2 Institute in Birmingham in March. It was just him and a laptop, but the show felt huge - his unmatched energy and the dedicated crowd made it an electric show. The most memorable moment being the acapella cover of Carly Rae Jepsen’s “Call Me Maybe”.
+## Lowlights
 
-The other concert I attended was the incredible Kendrick Lamar, supported by Baby Keem at the Utilita Arena in Birmingham. This couldn’t have been further from the JPEGMAFIA gig in terms of scope - it was a massive show with backup performers, set pieces and moving platforms. A lavish production featuring an emphatic performance by Keem, who’s no doubt going to be a star in his own right.
 
-## I got promoted! 
-It was a fulfilling year at work. In my role as Senior Software Engineer at Rowe IT, I got to learn lots of technologies including Azure, TypeScript, Cloudformation, ArcGIS Enterprise, Certbot and GitHub Actions. My day-to-day has definitely taken more of a DevOps leaning in the last 18 months which isn’t a path I expected, but has been rewarding in its own right. There’s so much to learn, and I feel I’ve developed my skills as a software engineer by broadening my horizons and being more aware of infrastructure and deployment-based activities.
+## Work 
 
-I also assumed more of a tech lead role this year, guiding delivery on an R&D project, honing my planning, prioritisation and architecture skills. I've found myself spread across multiple projects which has been difficult at times, but has also resulted in learning lots of new skills and required me to work on my time management skills, an area in which I still have room for improvement. For my contributions I was rewarded with a promotion to Technical Consultant at the end of the year. 
-
-## Side Projects Took A Hit
-As it turns out, being a parent and having a full-time job is quite time-consuming! My two main side projects - an ecommerce site run by myself and a graphic designer friend, and a Web3 project alongside an old colleague - both of these have been largely neglected by me this year. I also dropped my hobbies of game development and pixel/digital art. I'd really like to get back to this kind of thing in 2023. I also did a bit of tinkering with OpenAI ChatGPT 3, as well as the Fantasy Premier League API. I'm just waiting for inspiration to strike so I can build something useful with them, but odds of that happening are pretty slim, if I'm being honest. 
+## Side Projects
 
 ## Favourite releases
 
@@ -46,12 +41,18 @@ As it turns out, being a parent and having a full-time job is quite time-consumi
 1. Killers of the Flower Moon
 2. Spider-man: Across the Spider-Verse
 3. Oppenheimer
-4. Blackberry
-6. Mission Impossible - Dead Reckoning Part One
-7. The Creator
+4. Mission Impossible - Dead Reckoning Part One
+5. Blackberry
+6. The Creator
+7. The Killer
 8. Talk to Me
-9. Saltburn
-10. Tar
+10. Air
+11. Tar
+12. Saltburn
+13. Barbie
+14. Evil Dead Rise
+15. The Whale
+16. M3GAN
 
 ### Games 
 1. Talos Principle 2
