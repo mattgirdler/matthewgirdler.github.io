@@ -6,15 +6,17 @@ author: "Matt"
 tags:
   - Blog
 draft: false
-image: "/images/projects/2023.jpg"
+image: "/blogs/2023-in-review/2023.jpg"
 ---
 
-## High points
-2023 was a hectic year, to say the least. We finally moved home in April after having multiple buyers pull out at the last minute. In the end, we opted for a part exchange on a new build which meant we didn't have to worry about estate agent fees and took away a lot of stress that we had been experiencing up to that point. We've been in the house 
+## Highs
+2023 was a hectic year, to say the least. The biggest achievement was finally moving home in April after having multiple buyers pull out at the last minute. In the end, we opted for a part exchange on a new build which meant we didn't have to worry about estate agent fees and took away a lot of stress that we had been experiencing up to that point. We've been in the house almost a year now and there's still plenty to do, but we're much happier in the new spot. 
 
-I'm a massive fan of football, both watching and playing it. As a season ticket holder at Plymouth Argyle for around 20 years I was delighted to see my team get promoted as champions of League One and now competing in the Championship - one step away from the Premier League. I've seen the club there before, but to achieve this only a few years after nearly going out of existence only 12 years prior. Getting to celebrate this with my dad and my daughter are memories I'll cherish for a long time to come.
+I'm a massive fan of football - watching and playing . As a season ticket holder at Plymouth Argyle for around 20 years I was delighted to see my team get promoted as champions of League One and now competing in the Championship - one step away from the Premier League. I've seen the club there before, but to achieve this only a few years after nearly going out of existence only 12 years prior was particularly satisfying. Getting to celebrate this with my dad and young daughter are memories I'll cherish for a long time.
 
-## Low points
+{{< imgproc Argyle Resize "600x" />}}
+
+## Lows
 It was a year marked by hospital appointments (this year looks no different, but I'll save that for 2024's review blog). In June I was on the receiving end of a rough challenge playing 7-a-side football. I felt a lot of pain in my shoulder, but having suffered shoulder dislocations in the past I thought I'd just done that again.
 
 Still, the pain wasn't going away, so later that evening I headed up to A&E. Six hours later I got the X-ray results which confirmed I'd broken my collarbone. Pretty badly too. 
@@ -34,7 +36,9 @@ After Unity [shot themselves in the foot](https://www.wired.com/story/unity-walk
 
 I started dabbling in football data analytics. It's an area I've a growing interest in, spurred on by my slightly unhealthy obsession with fantasy football. I got my hands on some Statsbomb event data and wrote a number of Python scripts to produce a match report made up of passing networks, shotmaps, duel maps and other fun visualisations. 
 
-I mainly used [mplsoccer](https://github.com/andrewRowlinson/mplsoccer) for this, a library which includes pandas and matplotlib among others, and makes it easy to plot football data on customisable charts and pitches. It was a really enjoyable task which further kindled my interest in the area. Look out for a future blog on this here when I've had a chance to clean up the code and make the repo public.
+{{< imgproc PassingMap Resize "1000x" />}}
+
+I mainly used [mplsoccer](https://github.com/andrewRowlinson/mplsoccer) for this, a library which includes pandas and matplotlib among others, and makes it easy to plot football data on customisable charts and pitches. It was a really enjoyable and informative process which further stoked my interest in the area. Look out for a future blog on this here when I've had a chance to clean up the code and make the repo public.
 
 ## Favourite releases
 
