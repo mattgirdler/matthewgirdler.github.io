@@ -111,7 +111,7 @@ params:
     title: "Matt."
     subtitle: "I build things for the web"
     content: "A passionate full-stack software engineer, I enjoy exploring emerging technology, collaborating with others and building robust services that focus on the user first."    
-    image: /images/Portrait-Large.png
+    image: /images/me_corporate.jpg
     button:
       enable: true
       name: "Résumé"
