@@ -92,9 +92,7 @@ See full datasheets here:
 ### StatsBomb Season Matches
 
 A basic overview of each match in the four leagues for the 23/24 season,
-gathered using the \`matches\` method of the StatsBombPy library. (I later realised that I could have saved time by inserting the
-postcode/postcode sector reference into the match metrics instead of
-creating my separate stadium list.)
+gathered using the \`matches\` method of the StatsBombPy library. (I later realised that I could have saved time by inserting the postcode and sector reference into the match metrics instead of creating my separate stadium table) 
 
 ![](./media/image13.png)
 
@@ -122,10 +120,10 @@ This article focuses mainly on team match directness and match pace
 towards goal. These are both metrics which measure a team's directness,
 with team_match_directness measuring the pitch distance travelled in
 buildup a shot (e.g. more horizontal passes = greater distance = lower
-directness value), and \`team_match_pace_towards_goal\` measuring from
+directness value), and team_match_pace_towards_goal measuring from
 the start of possession to the shot in metres per second.
 
-I also selected a few additional columns that I felt could potentially
+I selected a few additional columns that I felt could potentially
 be affected by weather conditions. These are shown in the table below:
 
 | Column                               | Definition                                                                                                                                                |
@@ -200,8 +198,8 @@ four weather data outliers highlighted below.
 ![](./media/image10.png)
 
 Notably, two of these teams are Manchester United and Arsenal, the other
-two are Watford and West Brom. Two pairs of teams which participated in
-a match with extreme rain conditions.
+two are Watford and West Brom. Two sets of teams which participated in
+a match with extreme rainfall.
 
 At this point it seemed appropriate to
 [winsorise](https://en.wikipedia.org/wiki/Winsorizing) the
