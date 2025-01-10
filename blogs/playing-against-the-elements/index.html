@@ -40,9 +40,7 @@ hour for each postcode in the UK, and includes the parameters listed
 below as well as several others such as solar elevation angle and
 visibility screen level.</p><p><img src=./media/image8.png alt></p><p>I selected the following columns as the most likely to have an impact on
 playing conditions:</p><table><thead><tr><th>Column</th><th>Definition</th></tr></thead><tbody><tr><td>Total_rainfall_amount_previous_hour</td><td>Amount of rainfall in the previous hour measured in millimetres.</td></tr><tr><td>Wind_speed_10m</td><td>Average wind speed over the previous 15 minutes at 10m above the ground.</td></tr><tr><td>Wind_gust_10m</td><td>Extreme value of wind speed over the previous 15 minutes at 10m above the ground.</td></tr><tr><td>Feels_like_temperature</td><td>Approximate temperature in celsius over the previous hour.</td></tr></tbody></table><p>See full datasheets here:</p><ul><li><a href=https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/data/nowcasting-datasheet_2019.pdf><strong>Nowcast Datasheet</strong></a></li><li><a href=https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/data/postcode-sector-data-parameters-and-locations.pdf><strong>Postcode Sector Datasheet</strong></a></li></ul><h3 id=statsbomb-season-matches>StatsBomb Season Matches</h3><p>A basic overview of each match in the four leagues for the 23/24 season,
-gathered using the `matches` method of the StatsBombPy library. (I later realised that I could have saved time by inserting the
-postcode/postcode sector reference into the match metrics instead of
-creating my separate stadium list.)</p><p><img src=./media/image13.png alt></p><p><img src=./media/image12.png alt></p><p>Using stadium postcode sectors and match timestamps in a join, I created
+gathered using the `matches` method of the StatsBombPy library. (I later realised that I could have saved time by inserting the postcode and sector reference into the match metrics instead of creating my separate stadium table)</p><p><img src=./media/image13.png alt></p><p><img src=./media/image12.png alt></p><p>Using stadium postcode sectors and match timestamps in a join, I created
 a new table containing the match overviews and observations within three
 hours of kick off timestamps. For example, a 3PM kick-off would return
 the 3PM, 4PM and 5PM observations to hopefully give a full picture of
@@ -56,8 +54,8 @@ completed&rdquo;.</p><p>This article focuses mainly on team match directness and
 towards goal. These are both metrics which measure a team&rsquo;s directness,
 with team_match_directness measuring the pitch distance travelled in
 buildup a shot (e.g. more horizontal passes = greater distance = lower
-directness value), and `team_match_pace_towards_goal` measuring from
-the start of possession to the shot in metres per second.</p><p>I also selected a few additional columns that I felt could potentially
+directness value), and team_match_pace_towards_goal measuring from
+the start of possession to the shot in metres per second.</p><p>I selected a few additional columns that I felt could potentially
 be affected by weather conditions. These are shown in the table below:</p><table><thead><tr><th>Column</th><th>Definition</th></tr></thead><tbody><tr><td>Team_match_directness</td><td>A ratio of the distance towards goal from the start of a possession that ended in a shot, divided by the total distance travelled in buildup to the shot.</td></tr><tr><td>Team_match_pace_towards_goal</td><td>The average speed of buildup for possessions that end in shots, from the start of possession to shot (m/s)</td></tr><tr><td>Team_match_gk_pass_distance</td><td>Average length of pass from a goalkeeper when playing out from the back.</td></tr><tr><td>Team_match_gk_long_pass_ratio</td><td>Percentage of goalkeeper long passes that are completed.</td></tr><tr><td>Team_match_ball_in_play_time</td><td>Actual clock time the ball spends in play</td></tr><tr><td>Team_match_dribble_ratio</td><td>Percentage of dribbles that were completed</td></tr><tr><td>Team_match_high_press_shots_conceded</td><td>Shots conceded from possessions that were lost within 5 seconds of a opposition defensive action in the team&rsquo;s half</td></tr><tr><td>Team_match_passing_ratio</td><td>Passing completion rate.</td></tr></tbody></table><p>This is a sample of the available metrics that I selected as I felt they
 could be impacted by weather conditions. For example, a wet surface
 might cause a team to lose possession more frequently under a high
@@ -85,8 +83,8 @@ coefficient for pace towards goal and rainfall is close to 0.</p><p><img src=./m
 between rainfall and pace towards goal.</p><p><img src=./media/image2.png alt></p><p>However, in all cases the trendline appears to be skewed negatively by
 four weather data outliers highlighted below.
 <img src=./media/image10.png alt></p><p>Notably, two of these teams are Manchester United and Arsenal, the other
-two are Watford and West Brom. Two pairs of teams which participated in
-a match with extreme rain conditions.</p><p>At this point it seemed appropriate to
+two are Watford and West Brom. Two sets of teams which participated in
+a match with extreme rainfall.</p><p>At this point it seemed appropriate to
 <a href=https://en.wikipedia.org/wiki/Winsorizing>winsorise</a> the
 weather metric outliers (&ldquo;clamping&rdquo; the values so that anything above a
 certain threshold is set to the threshold value) thereby reducing the
