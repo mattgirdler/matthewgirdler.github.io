@@ -208,8 +208,8 @@ At this point it seemed appropriate to
 weather metric outliers ("clamping" the values so that anything above a
 certain threshold is set to the threshold value) thereby reducing the
 effect of the outliers on our analysis. According to the Met Office,
-rain at a rate of [[4mm or more per
-hour]{.underline}](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/government/using-the-map-and-accessing-the-weather-layers-beta.pdf)
+rain at a rate of [4mm or more per
+hour](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/government/using-the-map-and-accessing-the-weather-layers-beta.pdf)
 is termed "Heavy Rain", so this seems like an appropriate value to use
 as our upper limit.
 
@@ -329,8 +329,8 @@ Weather
 API](https://open-meteo.com/en/docs/historical-weather-api)
 looks like a great starting point for this.
 
-\> If you'd like access to the Streamlit app, give me a shout on
-[[BlueSky]{.underline}](https://bsky.app/profile/matthewgirdler.com),
-[[Twitter]{.underline}](https://twitter.com/mattgirdler) or
-[[LinkedIn]{.underline}](https://www.linkedin.com/in/matt-girdler-5740a3a7/)
-and I'll pass on the details.
+*If you'd like access to the Streamlit app, give me a shout on
+[BlueSky](https://bsky.app/profile/matthewgirdler.com),
+[Twitter](https://twitter.com/mattgirdler) or
+[LinkedIn](https://www.linkedin.com/in/matt-girdler-5740a3a7/)
+and I'll pass on the details.*
