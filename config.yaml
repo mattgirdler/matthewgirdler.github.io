@@ -3,7 +3,6 @@ languageCode: "en-us"
 title: "Matt Girdler"
 theme: hugo-profile
 
-Paginate: 3
 enableRobotsTXT: true
 
 services:
@@ -188,6 +187,21 @@ params:
           - Maintaining and implementing disaster recovery solution for ArcGIS Enterprise deployment.
           - Using Infrastructure as Code tools such as Terraform, Cloudformation and CDK to provision and manage cloud environments.          
 
+      - job: "Volunteer Data Analyst"
+        company: "Plymouth Argyle"
+        companyUrl: "https://www.pafc.co.uk/"
+        date: "December 2023 - Present"
+        # featuredLink:
+        #   enable: false
+        #   name: "View the project"
+        #   url: ""
+        content: |       
+          Helping the data team to build reliable tools, enabling easy presentation of key metrics to coaching staff and supporting the club's long term sustainability efforts. 
+
+          Developing and maintaining multiple recruitment tools using the R Shiny framework. Building interactive visualisation dashboards to aid in identifying data outliers and potential targets. Using R libraries such as ggplot and plotly to visualise key player metrics in radar charts, scatter plots and swarm charts. 
+          Enabling easy filtering, sorting and highlighting of scout report data and target monitoring data.
+          Building a rolling average data visualisation tool to identify trends in team/player performance
+
       - job: "Senior Software Engineer"
         company: "HM Land Registry"
         companyUrl: "https://www.gov.uk/government/organisations/land-registry"
@@ -211,7 +225,7 @@ params:
           - Full-stack developer for Head Office file management system.
           - Frontend developer for the Local Land Charges service.
           - IT Student Placement - Security Admin, ETL teams.
-
+      
   # Education
   education:
     enable: true
