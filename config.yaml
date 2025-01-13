@@ -135,7 +135,7 @@ params:
     title: "About Me"
     # image: "/images/me_corporate.jpg"
     content: |-
-      I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing and user-centered design. My hobbies include football, game development, pixel art and music.
+      I'm a software engineer with a passion for innovation. I have a background in computer science and a special interest in CI/CD, cloud computing, data science and user-centered design. My hobbies include football (playing, watching and analysing), game development and pixel art.
       
       I'm currently working as a Technical Consultant at [Rowe IT](https://roweit.co.uk) in Plymouth, UK. 
     skills:
@@ -144,11 +144,11 @@ params:
       items:
         - "Python"
         - "Terraform"
-        - "AWS"
-        - "Cloudformation"
+        - "Snowflake"
+        - "Streamlit"
+        - "AWS"  
         - "Azure"
-        - "Node"
-        - "React"
+        - "R"        
 
   # Experience
   experience:
