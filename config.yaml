@@ -149,7 +149,6 @@ params:
         - "AWS"  
         - "Azure"
         - "R/Shiny"
-        - ""
 
   # Experience
   experience:
