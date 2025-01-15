@@ -15,7 +15,7 @@ One of the most powerful aspects of data science is its ability to
 quantify real world phenomena. To use a popular example in the realm of
 football, fans have always recognised that some chances are of a higher
 quality than others - a six-yard tap-in is clearly more likely to result
-in a goal than a 30-yard volley - but the advent of expected goals (xG)
+in a goal than a speculative shot from outside of the box - but the advent of expected goals (xG)
 and other metrics has changed the way we analyse and understand the
 game.
 
@@ -155,9 +155,9 @@ and weather conditions for every 23/34 match.
 
 I aimed to find any correlations between match metrics and weather
 conditions using Pearson correlation. This method shows how two
-variables relate, with values ranging from -1 to 1: +1 means both
-increase together, -1 means one increases as the other decreases, and 0
-means no relationship.
+variables relate, with values ranging from -1 to 1: +1 signifies that both
+increase together, -1 signifies that one increases as the other decreases, and 0
+suggests no linear relationship at all.
 
 As such, I was looking to see if there was a strong positive or negative
 correlation between any of the metrics and adverse weather conditions
