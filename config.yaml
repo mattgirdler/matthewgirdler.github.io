@@ -181,11 +181,12 @@ params:
           - Scottish Qualification Authority.
 
           My achievements include:
-          - Designing, developing and maintaining a payment processing system utilising AWS Serverless architecture.
-          - Implementing enterprise network architecture for a travel data hub service.
-          - Leading R&D team capability-building activities.
-          - Maintaining and implementing disaster recovery solution for ArcGIS Enterprise deployment.
-          - Using Infrastructure as Code tools such as Terraform, Cloudformation and CDK to provision and manage cloud environments.          
+          - Lead developer in Met Office Bulk Data publishing team. Developed flexible data pipeline enabling publication of datasets to open data initiatives.
+          - Developed CI/CD pipelines in AWS CodePipeline and Azure DevOps, including automated deployment of infrastructure of code.
+          - Implementing enterprise network architecture for West of England Combined Authority Travel Data Hub.
+          - Leading R&D team in organisational capability building activities.
+          - Maintaining ArcGIS Enterprise deployment, implementing multi-site server for resilience.
+          - Using Infrastructure as Code tools such as Terraform, Cloudformation and CDK to provision and manage varous cloud services.
 
       - job: "Volunteer Data Analyst"
         company: "Plymouth Argyle"
@@ -197,10 +198,11 @@ params:
         #   url: ""
         content: |       
           Helping the data team to build reliable tools, enabling easy presentation of key metrics to coaching staff and supporting the club's long term sustainability efforts. 
-
-          Developing and maintaining multiple recruitment tools using the R Shiny framework. Building interactive visualisation dashboards to aid in identifying data outliers and potential targets. Using R libraries such as ggplot and plotly to visualise key player metrics in radar charts, scatter plots and swarm charts. 
-          Enabling easy filtering, sorting and highlighting of scout report data and target monitoring data.
-          Building a rolling average data visualisation tool to identify trends in team/player performance.
+          Developing and maintaining multiple recruitment tools using R, Shiny, ggplot and Plotly.
+          
+          - Developed a Wyscout Player Ranking dasboard utilising player data and Plymouth Argyle's own player ranking model. Added scatter, radar and swarm plot visualisations for player metrics.          
+          - Developed a Target Monitoring dashboard with easy filtering, sorting and highlighting of scout report data.
+          - Developed a rolling average data visualisation tool to identify trends in team/player performance using Statsbomb metrics. 
 
       - job: "Senior Software Engineer"
         company: "HM Land Registry"
