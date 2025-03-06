@@ -10,7 +10,7 @@ image: "/blogs/2024-in-review/2024InReview.png"
 ---
 Another year in the tank - I'll keep the post fairly short this time. It was a productive year at work, helping Met Office to realise some of their socio-economic benefits by publishing multiple products to open data initiatives. A two-year rolling archive of global deterministic atmospheric forecast data can be found on the [Registry of Open Data on AWS](https://registry.opendata.aws/met-office-global-deterministic/), alongside a few other Met Office datasets we've made available this year. 
 
-We also released the first Met Office products on the [Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZTDZJKVBD/met-office-postcode-sector-weather-forecasts-free). 
+We also released the first Met Office products on the [Snowflake Marketplace](https://app.snowflake.com/marketplace/providers/GZTDZJKVBD/Met%20Office). 
 
 I've enjoyed getting to grips with the platform and honing my data engineering skills. I even used Snowflake to perform some analysis on the impact of weather in football, which I've written about HERE. 
 
