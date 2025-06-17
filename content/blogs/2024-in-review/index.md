@@ -57,17 +57,17 @@ Here are some of the media releases I enjoyed this year:
 - Kingdom of the Planet of the Apes
 
 ### Albums
+- Cameron Winter - Heavy Metal
+- Mk.gee - Two Star & The Dream Police 
 - JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU
 - Kendrick Lamar - GNX
 - The Smile - Wall of Eyes
 - Vampire Weekend – Only God Was Above Us
-- NxWorries - Why Lawd?
 - Geordie Greep - The New Sound
 - Charli XCX - Brat
 - Fontaines D.C. - Romance
 - Jamie xx - In Waves
 - Colin Stetson - the love it took to leave you
-- Father John Misty - mahashmashana
 
 ### TV Shows
 - Fargo Season 5
